@@ -1,0 +1,15 @@
+
+.container {
+    text-align: center;
+    opacity: 0.95;
+}
+.table {
+    margin: 0 auto;
+    width: 80%;
+}
+.btn {
+    opacity: 0.8;
+}
+.btn:hover {
+    opacity: 1;
+}
